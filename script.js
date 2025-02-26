@@ -1,12 +1,12 @@
 // Arrays med navne-dele 
 const firstPart = [
   "Skatte", "Fnuller", "Putte", "Guld", "Musse", "Snuske", "Mælke", "Jelly", "Cookie", "Buller", 
-  "Kramme", "Guld", "Prutte", "Misse", "Stjerne", "Tosse", "Grine", "Puller", "Sveske", "Mulle", "Tulle", "Smukke", "Sukker", "Lækker", "Sol", "Prinsesse", "Elske", "Charme", "Lækker", "Honning", "Nusse", "Skum", "Mini", "Prinse", "Sommer", "Puslinge", "Kramme", "Nuller", "Bølle", "Muller", "Pjuske", "Plysser", "Tutte", "Smør", "Fjolle", "Glitter", "Snurre", "Bobbel", "Plys", "Lækker"
+  "Kramme", "Guld", "Prutte", "Misse", "Stjerne", "Tosse", "Grine", "Puller", "Sveske", "Mulle", "Tulle", "Smukke", "Sukker", "Lækker", "Sol", "Prinsesse", "Elske", "Charme", "Lækker", "Honning", "Nusse", "Skum", "Mini", "Prinse", "Sommer", "Puslinge", "Kramme", "Nuller", "Bølle", "Muller", "Pjuske", "Plysser", "Tutte", "Smør", "Fjolle", "Glitter", "Snurre", "Bobbel", "Plys", "Lækker", "Bamse", "Glimmer", "Snuller", "Tutte", "Fluffe-","Lulle", "Nutte-" 
 ];
 
 const secondPart = [
   "mus", "gøj", "-tøs", "bamse", "-fis", "mis", "-bøtte", "bean", "monster", "mås", 
-  "bjørn", "klump", "top", "dyr", "kat", "lys", "tosse", "-fyr", "dukke", "bisken", "trold", "sikke", "-futmælk", "ling", "kage", "-fidus", "-bar", "panda", "-muuh", "fugl", "boble", "blomst", "stjerne", "fisk", "gøjl", "stråle", "my", "-top", "fnug", "sky", "blomst", "fe", "ælling", "hvalp", "tumling", "-smølf", "perle", "pjusk", "drys", "putling", "-puff"
+  "bjørn", "klump", "top", "dyr", "kat", "lys", "tosse", "-fyr", "dukke", "bisken", "trold", "sikke", "-futmælk", "-ling", "kage", "-fidus", "-bar", "panda", "-muuh", "fugl", "boble", "blomst", "stjerne", "fisk", "gøjl", "stråle", "my", "-top", "fnug", "sky", "blomst", "fe", "ælling", "hvalp", "tumling", "-smølf", "perle", "pjusk", "drys", "putling", "-puff"
 ];
 
 // Funktion til at generere et tilfældigt kælenavn
